@@ -12,6 +12,7 @@
 		2FCC9B691BCB0FA300C9B87E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FCC9B671BCB0FA300C9B87E /* Main.storyboard */; };
 		2FCC9B6B1BCB0FA300C9B87E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FCC9B6A1BCB0FA300C9B87E /* Assets.xcassets */; };
 		2FCC9B6E1BCB0FA300C9B87E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FCC9B6C1BCB0FA300C9B87E /* LaunchScreen.storyboard */; };
+		2FCC9B761BCBF4A900C9B87E /* cat_image.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2FCC9B751BCBF4A900C9B87E /* cat_image.jpeg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2FCC9B6A1BCB0FA300C9B87E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FCC9B6D1BCB0FA300C9B87E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FCC9B6F1BCB0FA300C9B87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2FCC9B751BCBF4A900C9B87E /* cat_image.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat_image.jpeg; path = ../../../../Desktop/cat_image.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2FCC9B631BCB0FA200C9B87E /* AppDelegate.swift */,
 				2FCC9B651BCB0FA200C9B87E /* ViewController.swift */,
 				2FCC9B671BCB0FA300C9B87E /* Main.storyboard */,
+				2FCC9B751BCBF4A900C9B87E /* cat_image.jpeg */,
 				2FCC9B6A1BCB0FA300C9B87E /* Assets.xcassets */,
 				2FCC9B6C1BCB0FA300C9B87E /* LaunchScreen.storyboard */,
 				2FCC9B6F1BCB0FA300C9B87E /* Info.plist */,
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FCC9B761BCBF4A900C9B87E /* cat_image.jpeg in Resources */,
 				2FCC9B6E1BCB0FA300C9B87E /* LaunchScreen.storyboard in Resources */,
 				2FCC9B6B1BCB0FA300C9B87E /* Assets.xcassets in Resources */,
 				2FCC9B691BCB0FA300C9B87E /* Main.storyboard in Resources */,
